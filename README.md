@@ -3,8 +3,9 @@
 Sou estudante de informática
 
 
-![Anime Guitar 2]([Uploading image.png]()
-) <br>
+
+![Anime Girl](https://media.giphy.com/media/l0MYvKcB1HkHeHblS/giphy.gif) <br>
+
 👯 Eu gosto de jogar xadrez [♟️](https://www.chess.com/pt) <br>
 🤔 Procuro ajuda com [Tópicos que você quer melhorar]<br>
 
