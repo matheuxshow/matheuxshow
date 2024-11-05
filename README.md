@@ -3,7 +3,7 @@
 <img src="https://tagumando.wordpress.com/wp-content/uploads/2023/07/vinland-saga-10_3.jpeg?w=2000" width="400" align="right">
 
 
-Sou um **músico****guitarrista**  🎶
+Sou um **músico** **guitarrista**  🎶
 
 
 
