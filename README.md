@@ -33,8 +33,6 @@ Aqui estão algumas áreas que estou explorando, tanto no mundo da música quant
   
 - **Produção Musical**: Aprendendo mais sobre técnicas de **mixagem** e **masterização** para aprimorar a qualidade das minhas gravações.
   
-- **Programação**: Aperfeiçoando minhas habilidades em **React** e **Node.js**, além de explorar ferramentas e bibliotecas que ajudam a criar mais recursos para músicos.
-
 ---
 
 ## 🎯 Meus Objetivos
