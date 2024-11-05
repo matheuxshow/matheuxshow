@@ -3,19 +3,15 @@
 <img src="https://tagumando.wordpress.com/wp-content/uploads/2023/07/vinland-saga-10_3.jpeg?w=2000" width="400" align="right">
 
 
-Sou um **guitarrista**, **músico** e **desenvolvedor** apaixonado por criar, aprender e compartilhar minhas músicas com o mundo. Quando não estou programando, estou tocando guitarra, compondo novas músicas ou explorando diferentes estilos musicais. Se você também ama música e tecnologia, está no lugar certo! 🎶
+Sou um **músico **guitarrista**  🎶
 
 ---
 
 ## 🎸 Sobre Mim
 
-- 🎧 **Guitarrista e Compositor**: Toco guitarra elétrica e acústica, e sou apaixonado por explorar diferentes gêneros, incluindo **rock**, **blues**, **jazz**, **metal** e até mesmo **música de anime**. Também sou compositor e crio minhas próprias músicas, com ênfase em solos e arranjos interessantes.
+- 🎧 **Guitarrista e Compositor**: Toco guitarra elétrica e acústica, e sou apaixonado por explorar diferentes gêneros, incluindo **rock**, **blues**, **jazz**, **metal** e até mesmo **música de anime**. 
 
-- 💻 **Desenvolvedor Full-Stack**: Sou desenvolvedor de software com experiência em **front-end** e **back-end**. Gosto de combinar minha paixão por música com minhas habilidades de programação, criando projetos que ajudam músicos e entusiastas da música.
-
-- 🎵 **Produtor Musical**: Trabalho com **Ableton Live**, **Logic Pro X** e **FL Studio** para criar, gravar, mixar e masterizar minhas músicas. Meu estilo de produção é diversificado, variando de **rock alternativo** a **música eletrônica**.
-
-- 📚 **Sempre Aprendendo**: Estou sempre buscando novos métodos para aprimorar minha técnica na guitarra, assim como aprendendo novas linguagens de programação e frameworks que me ajudam a criar mais ferramentas para músicos.
+- 🎵 **Produtor Musical**: Trabalho com **Bandlab** para criar, gravar, mixar e masterizar algumas gravações. 
 
 ---
 
