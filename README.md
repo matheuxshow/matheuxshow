@@ -59,7 +59,8 @@ Se você também ama música, guitarra ou programação, vamos trocar ideias! Aq
 
 Aqui estão algumas das minhas estatísticas de GitHub:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&count_private=true&hide_title=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuxshow_icons=true&count_private=true&hide_title=true&theme=dark)
+
 
 ---
 
