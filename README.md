@@ -58,11 +58,10 @@ Aqui estão algumas das minhas estatísticas de GitHub:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuxshow_icons=true&count_private=true&hide_title=true&theme=dark)
 
 
+
 ---
 
-## 🎶 Imagens e Citações de Anime
-
-Aqui estão algumas das minhas inspirações musicais e artísticas. Eu também sou fã de **anime**, então não poderia faltar algumas imagens e citações para inspirar o dia!
+## 🎶 Imagens e Citações 
 
 > "Quando você acredita que pode fazer algo, isso se torna possível." - **Luffy** (One Piece)  
 > "A música não é o que você toca, mas como você a sente." – **Yui** (Angel Beats)
