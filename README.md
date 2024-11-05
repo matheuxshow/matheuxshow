@@ -1,6 +1,7 @@
-# Olá, eu sou [Seu Nome] 👋🎸
+# Olá, eu sou José Matheus 👋🎸
 
-![Guitarrista](https://media.giphy.com/media/l0MYvKcB1HkHeHblS/giphy.gif)
+<img src="https://tagumando.wordpress.com/wp-content/uploads/2023/07/vinland-saga-10_3.jpeg?w=2000" width="400" align="right">
+
 
 Sou um **guitarrista**, **músico** e **desenvolvedor** apaixonado por criar, aprender e compartilhar minhas músicas com o mundo. Quando não estou programando, estou tocando guitarra, compondo novas músicas ou explorando diferentes estilos musicais. Se você também ama música e tecnologia, está no lugar certo! 🎶
 
