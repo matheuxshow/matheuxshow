@@ -19,7 +19,11 @@ Sou um **músico **guitarrista**  🎶
 
 
 
-- **[CifraClub](https://www.cifraclub.com.br/)** 🎸: Um aplicativo para pesquisar **tablaturas de guitarra, e cifras** automaticamente. Ideal para guitarristas iniciantes ou para quem precisa de uma forma rápida de aprender uma música.
+- **[CifraClub](https://www.cifraclub.com.br/)** 🎸: Um aplicativo para pesquisar **tablaturas de guitarra, e cifras** automaticamente. Ideal para guitarristas iniciantes ou para quem precisa de uma forma rápida de aprender uma música.<img src="<img src="https://tagumando.wordpress.com/wp-content/uploads/2023/07/vinland-saga-10_3.jpeg?w=2000" width="400" align="right">
+
+" width="400" align="right">
+
+
   
 
 ---
