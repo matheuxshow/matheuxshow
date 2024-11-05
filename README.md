@@ -37,7 +37,7 @@ Aqui estão algumas áreas que estou explorando, tanto no mundo da música quant
 
 ## 🎯 Meus Objetivos
   
-- **Fazer parte de alguma banda ligada ao meio gospel** 🎸🎶<br>
+- **Criar uma banda de garagem** 🎸🎶<br>
 
 - **Aprimorar minha técnica na guitarra**: Não há limites quando o massunto é *aprender*.<br>
 
