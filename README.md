@@ -3,9 +3,9 @@
 Sou estudante de informática
 
 
-
+![Anime Guitar](https://media.giphy.com/media/3ohhwx2z3BGM5JzdSc/giphy.gif)
 👯 Eu gosto de jogar xadrez [♟️](https://www.chess.com/pt) <br>
-🤔 Procuro ajuda com [Tópicos que você quer melhorar]
+🤔 Procuro ajuda com [Tópicos que você quer melhorar]<br>
 
 ### Conecte-se comigo:
 [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram)](https://www.instagram.com/josematheusbsb/)
