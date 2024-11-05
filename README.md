@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, eu sou [Seu Nome] 👋
 
-<!--
-**matheuxshow/matheuxshow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor de software com paixão por [Tecnologias que você usa], atualmente trabalhando com [Tecnologia ou linguagem]. Apaixonado por aprender e colaborar em projetos de código aberto.
 
-Here are some ideas to get you started:
+🔭 Atualmente estou trabalhando em [Projeto Atual]  
+🌱 Atualmente estou aprendendo [Tecnologia que você está estudando]  
+👯 Eu gosto de colaborar em [Tipo de projeto]  
+🤔 Procuro ajuda com [Tópicos que você quer melhorar]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Conecte-se comigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/seunome/)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://twitter.com/seunome)
+
