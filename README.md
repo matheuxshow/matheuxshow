@@ -49,11 +49,10 @@ Aqui estão algumas áreas que estou explorando, tanto no mundo da música quant
 
 Se você também ama música, guitarra ou programação, vamos trocar ideias! Aqui estão minhas redes sociais:
 
-- **LinkedIn**: [seunome](https://www.linkedin.com/in/seunome/)
+
 [![**Twitter**](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://x.com/JosMatheusSoar1)<br>
 
-- **YouTube**: [Canal de Música](https://www.youtube.com/c/seunome)
-[![**Instagram**](https://img.shields.io/badge/Instagram-purple?logo=instagram)](https://www.instagram.com/josematheusbsb/)
+[![**Instagram**](https://img.shields.io/badge/Instagram-purple?logo=instagram)](https://www.instagram.com/josematheusbsb/)<br>
 ---
 
 ## 🎸 Estatísticas do GitHub
