@@ -2,7 +2,7 @@
 
 Sou estudante de informática
 
-<img src="https://tagumando.wordpress.com/wp-content/uploads/2023/07/vinland-saga-10_3.jpeg?w=1200" width="200" align="right">
+<img src="https://tagumando.wordpress.com/wp-content/uploads/2023/07/vinland-saga-10_3.jpeg?w=2000" width="400" align="right">
 
 
 
