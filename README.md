@@ -1,15 +1,12 @@
 # Olá, eu sou José Matheus👋
 
-Sou estudante de informática
+🎶 Sou músico à oito anos <br> 
 
 <img src="https://tagumando.wordpress.com/wp-content/uploads/2023/07/vinland-saga-10_3.jpeg?w=2000" width="400" align="right">
 
 
 
-
-
 👯 Eu gosto de jogar xadrez [♟️](https://www.chess.com/pt) <br>
-🤔 Procuro ajuda com [Tópicos que você quer melhorar]<br>
 
 ### Conecte-se comigo:
 [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram)](https://www.instagram.com/josematheusbsb/)
