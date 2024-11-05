@@ -4,7 +4,7 @@ Sou estudante de informática
 
 
 
-![Anime Guitar](https://media.giphy.com/media/l0MYvKcB1HkHeHblS/giphy.gif)
+![Anime Guitar](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftagumando.wordpress.com%2F2023%2F07%2F07%2Fvoce-nao-tem-inimigos%2F&psig=AOvVaw2E7hW22h-GSLEOUvEPVwi5&ust=1730911694451000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDuxN3SxYkDFQAAAAAdAAAAABAE)
 
 
 
