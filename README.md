@@ -15,7 +15,7 @@ Sou um **músico **guitarrista**  🎶
 
 ---
 
-## 📝 Projetos em Destaque
+## 📝 Parcerias
 
 
 
