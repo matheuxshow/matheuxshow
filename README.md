@@ -71,7 +71,7 @@ Aqui estão algumas das minhas inspirações musicais e artísticas. Eu também 
 > "Quando você acredita que pode fazer algo, isso se torna possível." - **Luffy** (One Piece)  
 > "A música não é o que você toca, mas como você a sente." – **Yui** (Angel Beats)
 
-![Anime Guitar](https://media.giphy.com/media/l0MYvKcB1HkHeHblS/giphy.gif)
+![Anime Guitar](https://pbs.twimg.com/media/EN2g611XkAAW9rs?format=jpg&name=large)
 
 ---
 
