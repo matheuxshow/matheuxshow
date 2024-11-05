@@ -70,8 +70,8 @@ Aqui estão algumas das minhas inspirações musicais e artísticas. Eu também 
 
 > "Quando você acredita que pode fazer algo, isso se torna possível." - **Luffy** (One Piece)  
 > "A música não é o que você toca, mas como você a sente." – **Yui** (Angel Beats)
+<img src="https://pbs.twimg.com/media/EN2g611XkAAW9rs?format=jpg&name=large" width="400" align="right">
 
-![Anime Guitar](https://pbs.twimg.com/media/EN2g611XkAAW9rs?format=jpg&name=large)
 
 ---
 
@@ -93,19 +93,6 @@ Esse **README.md** combina todos os aspectos da sua paixão por música e tecnol
 
 
 
-# Olá, eu sou José Matheus👋
-
-🎶 Sou músico à oito anos <br> 
-
-<img src="https://tagumando.wordpress.com/wp-content/uploads/2023/07/vinland-saga-10_3.jpeg?w=2000" width="400" align="right">
-
-
-
-👯 Eu gosto de jogar xadrez [♟️](https://www.chess.com/pt) <br>
-
-### Conecte-se comigo:
-[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram)](https://www.instagram.com/josematheusbsb/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://twitter.com/seunome)<br>
 
 
 
