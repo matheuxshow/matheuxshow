@@ -17,15 +17,10 @@ Sou um **músico **guitarrista**  🎶
 
 ## 📝 Projetos em Destaque
 
-Aqui estão alguns dos meus projetos mais recentes que combinam meu amor pela **música** e pela **tecnologia**:
 
-- **[Guitar Tab Generator](https://github.com/seunome/guitar-tab-generator)** 🎸: Um aplicativo para gerar **tablaturas de guitarra** automaticamente a partir de arquivos de áudio. Ideal para guitarristas iniciantes ou para quem precisa de uma forma rápida de aprender uma música.
+
+- **[CifraClub](https://www.cifraclub.com.br/)** 🎸: Um aplicativo para pesquisar **tablaturas de guitarra, e cifras** automaticamente. Ideal para guitarristas iniciantes ou para quem precisa de uma forma rápida de aprender uma música.
   
-- **[Music Player API](https://github.com/seunome/music-player-api)** 🎶: Uma API para **streaming de música**, que permite criar playlists, fazer recomendações e integrar suas músicas favoritas em um site ou aplicativo.
-
-- **[Anime Music Player](https://github.com/seunome/anime-music-player)** 🎧: Um player de música inspirado em **trilhas sonoras de animes**, com uma interface interativa e recursos para personalizar suas playlists com músicas de anime.
-
-- **[Guitar Chord Finder](https://github.com/seunome/guitar-chord-finder)** 🎸: Ferramenta para guitarristas onde você pode buscar acordes, escalas e até ver sugestões de progressões harmônicas para suas músicas.
 
 ---
 
