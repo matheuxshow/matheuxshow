@@ -64,8 +64,9 @@ Aqui estão algumas das minhas estatísticas de GitHub:
 
 ## 🎶 Imagens e Citações 
 
-> "Quando você acredita que pode fazer algo, isso se torna possível." - **Luffy** (One Piece)  <img src="https://pbs.twimg.com/media/EN2g611XkAAW9rs?format=jpg&name=large" width="400" align="right">
+> "Quando você acredita que pode fazer algo, isso se torna possível." - **Luffy** (One Piece)<br>
 > "A música não é o que você toca, mas como você a sente." – **Yui** (Angel Beats)
+  <img src="https://pbs.twimg.com/media/EN2g611XkAAW9rs?format=jpg&name=large" width="400" align="right">
 
 
 ---
