@@ -4,7 +4,8 @@ Sou estudante de informática
 
 
 
-![Texto alternativo da imagem](vhttps://www.google.com/imgres?q=gif%20do%20torfin%20meditando&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F2b%2Fc6%2F39%2F2bc6397beb6d6f8171e6924cfc0653c8.gif&imgrefurl=https%3A%2F%2Fse.pinterest.com%2Fpin%2Fvinland-saga-thorfinn-gif-vinland-saga-thorfinn-relaxing-discover-share-gifs-trong-2024--687784174374354034%2F&docid=b6msMUjGPJm2xM&tbnid=upoZgGPre5C6YM&vet=12ahUKEwjA5oXQ0cWJAxXqrJUCHardMOAQM3oECBEQAA..i&w=498&h=280&hcb=2&ved=2ahUKEwjA5oXQ0cWJAxXqrJUCHardMOAQM3oECBEQAA)
+![Anime Guitar](https://media.giphy.com/media/l0MYvKcB1HkHeHblS/giphy.gif)
+
 
 
 👯 Eu gosto de jogar xadrez [♟️](https://www.chess.com/pt) <br>
