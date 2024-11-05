@@ -77,23 +77,12 @@ Aqui estão algumas das minhas inspirações musicais e artísticas. Eu também 
 
 ### 🎧 Meu Setup Musical
 
-- **Guitarras**: Fender Stratocaster, Gibson Les Paul
-- **Pedais**: Boss DS-1, Electro-Harmonix Holy Grail
-- **Amplificadores**: Marshall JCM800, Vox AC30
-- **Software de Produção**: Ableton Live, Logic Pro X
+- **Guitarras**: *SX* Stratocaster, *fender* telecaster
+- **Pedais**: **ZOOM G1X-Four**, **ZOOM 505**
+- **Amplificadores**: *fender*, Vox AC30
+- **Software de Produção**: **BandLab**
 
 ---
-
-**Nota**: Não esqueça de substituir os links de **Instagram**, **LinkedIn**, **Twitter**, etc., com seus próprios links de redes sociais, e também ajustar o nome de usuário no GitHub onde mencionei `seunome`.
-
----
-
-Esse **README.md** combina todos os aspectos da sua paixão por música e tecnologia! Ele destaca sua experiência como **guitarrista** e **desenvolvedor** de software, enquanto também mostra seus projetos e conecta você com outras pessoas que compartilham os mesmos interesses. Além disso, você pode sempre personalizar mais à medida que novos projetos e metas surgirem! 🎸🎶
-
-
-
-
-
 
 
 <h3 align="left">Linguagens com as quais trabalho:</h3>
