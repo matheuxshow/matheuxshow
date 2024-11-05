@@ -1,10 +1,10 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou José Matheus👋
 
-Sou desenvolvedor de software com paixão por [Tecnologias que você usa], atualmente trabalhando com [Tecnologia ou linguagem]. Apaixonado por aprender e colaborar em projetos de código aberto.
+Sou estudante de informática, com paixão por , atualmente trabalhando com [Tecnologia ou linguagem]. Apaixonado por aprender e colaborar em projetos de código aberto.
 
 🔭 Atualmente estou trabalhando em [Projeto Atual]  
-🌱 Atualmente estou aprendendo [Tecnologia que você está estudando]  
-👯 Eu gosto de colaborar em [Tipo de projeto]  
+🌱 Atualmente estou aprendendo  
+👯 Eu gosto de jogar xadrez [♟️](https://www.chess.com/pt-BR) 
 🤔 Procuro ajuda com [Tópicos que você quer melhorar]
 
 ### Conecte-se comigo:
