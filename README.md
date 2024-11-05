@@ -29,7 +29,7 @@ Sou um **músico **guitarrista**  🎶
 
 Aqui estão algumas áreas que estou explorando, tanto no mundo da música quanto da programação:
 
-- **Improvisação de Guitarra**: Melhorando minha técnica de improvisação, com foco em solos e diferentes escalas musicais.
+- **modos gregos**: Melhorando minha técnica de improvisação, com foco em solos e diferentes escalas musicais.
   
 - **Produção Musical**: Aprendendo mais sobre técnicas de **mixagem** e **masterização** para aprimorar a qualidade das minhas gravações.
   
