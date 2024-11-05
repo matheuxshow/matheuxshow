@@ -3,7 +3,7 @@
 Sou estudante de informática
 
 
-<img src="https://media.giphy.com/media/7XaDJx5Kwb57Ggq7b8/giphy.gif" width="200" align="right">
+
 👯 Eu gosto de jogar xadrez [♟️](https://www.chess.com/pt) <br>
 🤔 Procuro ajuda com [Tópicos que você quer melhorar]
 
