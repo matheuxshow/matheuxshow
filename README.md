@@ -8,6 +8,6 @@ Sou estudante de informática, com paixão por , atualmente trabalhando com [Tec
 🤔 Procuro ajuda com [Tópicos que você quer melhorar]
 
 ### Conecte-se comigo:
-[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram)](https://www.instagram.com/josematheusbsb/#)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram)](https://www.instagram.com/josematheusbsb/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://twitter.com/seunome)
 
