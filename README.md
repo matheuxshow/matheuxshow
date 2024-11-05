@@ -36,8 +36,6 @@ Aqui estão algumas áreas que estou explorando, tanto no mundo da música quant
 ---
 
 ## 🎯 Meus Objetivos
-
-- **Criar mais ferramentas para músicos**: Quero desenvolver mais aplicações que ajudem músicos a aprender, criar e se conectar com outras pessoas através da música.
   
 - **Fazer parte de alguma banda ligada ao meio gospel** 🎸🎶<br>
 
@@ -49,9 +47,7 @@ Aqui estão algumas áreas que estou explorando, tanto no mundo da música quant
 
 Se você também ama música, guitarra ou programação, vamos trocar ideias! Aqui estão minhas redes sociais:
 
-
 [![**Twitter**](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://x.com/JosMatheusSoar1)<br>
-
 [![**Instagram**](https://img.shields.io/badge/Instagram-purple?logo=instagram)](https://www.instagram.com/josematheusbsb/)<br>
 ---
 
