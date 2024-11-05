@@ -8,6 +8,6 @@ Sou estudante de informática, com paixão por , atualmente trabalhando com [Tec
 🤔 Procuro ajuda com [Tópicos que você quer melhorar]
 
 ### Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/seunome/)
+[![](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/seunome/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://twitter.com/seunome)
 
