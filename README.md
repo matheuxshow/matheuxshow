@@ -72,8 +72,8 @@ Please provide the text you wish to have translated.
 Here's some of my GitHub stats:
 
 
-(https://github-readme-stats.vercel.app/api?username=matheuxshow&show_icons=true&count_public=true&hide_title=true&theme=dark)
-.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuxshow&show_icons=true&count_public=true&hide_title=true&theme=dark)
+
 
 
 
