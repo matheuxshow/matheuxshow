@@ -3,7 +3,7 @@
 <img src="https://tagumando.wordpress.com/wp-content/uploads/2023/07/vinland-saga-10_3.jpeg?w=2000" width="400" align="right">
 
 
-Sou um **músico guitarrista**  🎶
+I'm a guitarist musician 🎶.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
@@ -36,58 +36,71 @@ Kindly send me the text that you want translated.
 
 ---
 
-## 🎶 O Que Estou Aprendendo
+## 🎶 What am I learning?
 
-Aqui estão algumas áreas que estou explorando, tanto no mundo da música quanto da programação:
+Here are some areas that I am exploring, both in music and programming:
 
-- **modos gregos**: Melhorando minha técnica de improvisação, com foco em solos e diferentes escalas musicais.
+- **Greek modes**: Improving my improvisation technique, focusing on solos and various musical scales.
   
-- **Produção Musical**: Aprendendo mais sobre técnicas de **mixagem** e **masterização** para aprimorar a qualidade das minhas gravações.
+- **Music Production**: Learning more about mixing and mastering techniques to improve the quality of my recordings.
   
 ---
 
-## 🎯 Meus Objetivos
+## 🎯 My goals
   
-- **Criar uma banda de garagem** 🎸🎶<br>
+- **Create a garage band** 🎸🎶
 
-- **Aprimorar minha técnica na guitarra**: Não há limites quando o massunto é *aprender*.<br>
+- **Improve my guitar technique**: There are no limitations when it comes to learning.
 
 ---
 
-## 🌍 Conecte-se Comigo
 
-Se você também ama música, guitarra ou programação, vamos trocar ideias! Aqui estão minhas redes sociais:
+## Connect with me.
+
+
+If you enjoy music, guitar, or programming, let's talk! Here's my social media accounts:
+
 
 [![**Twitter**](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://x.com/JosMatheusSoar1)<br>
 [![**Instagram**](https://img.shields.io/badge/Instagram-purple?logo=instagram)](https://www.instagram.com/josematheusbsb/)<br>
----
-
-## 🎸 Estatísticas do GitHub
-
-Aqui estão algumas das minhas estatísticas de GitHub:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuxshow&show_icons=true&count_public=true&hide_title=true&theme=dark)
+Please provide the text you wish to have translated.
 
 
+## 🎸 GitHub statistics
 
 
----
-
-## 🎶 Imagens e Citações 
-
-> "Quando você acredita que pode fazer algo, isso se torna possível." - **Luffy** (One Piece)<br>
-> "A música não é o que você toca, mas como você a sente." – **Yui** (Angel Beats)
-  <img src="https://pbs.twimg.com/media/EN2g611XkAAW9rs?format=jpg&name=large" width="400" align="right">
+Here's some of my GitHub stats:
 
 
----
+! [GitHub Statistics](https://github-readme-stats.vercel.app/api?username=matheuxshow&show_icons=true&count_public=true&hide_title=true&theme=dark)
+.
 
-### 🎧 Meu Setup Musical
 
-- **Guitarras**: *SX* Stratocaster, *fender* telecaster
-- **Pedais**: **ZOOM G1X-Four**, **ZOOM 505**
-- **Amplificadores**: *fender*, Vox AC30
-- **Software de Produção**: **BandLab**
+
+
+
+
+
+
+Please provide the text that you want me to translate.
+
+
+## 🎶 Image and Quotes 
+
+
+"When you believe you can do something, it becomes possible." - Luffy (One Piece) "Music is not what you play, but how you feel it." - **Yui** (Angelbeats)
+The music is defined by how you feel rather than what you perform.format="jpg" name="large" width="400" align="right">
+
+
+
+
+Please provide the text that you want me to translate.
+
+
+### My Music Setup
+
+
+- Guitars: *SX* Stratocaster, *Fender* Telecaster - Pedals: **ZOOM G1X-Four**, **ZOOM 505** - Amplifiers: *Fender*,
 
 ---
 
