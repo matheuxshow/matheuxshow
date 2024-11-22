@@ -77,12 +77,7 @@ Here's some of my GitHub stats:
 
 
 
-
-
-
-
-
-Please provide the text that you want me to translate.
+---
 
 
 ## 🎶 Image and Quotes 
@@ -92,9 +87,7 @@ Please provide the text that you want me to translate.
 The music is defined by how you feel rather than what you perform.format="jpg" name="large" width="400" align="right">
 
 
-
-
-Please provide the text that you want me to translate.
+---
 
 
 ### My Music Setup
