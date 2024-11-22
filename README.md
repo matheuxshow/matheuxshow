@@ -1,4 +1,4 @@
-# Olá, eu sou José Matheus 👋🎸
+# Hello, I'm José Matheus 👋🎸
 
 <img src="https://tagumando.wordpress.com/wp-content/uploads/2023/07/vinland-saga-10_3.jpeg?w=2000" width="400" align="right">
 
@@ -12,19 +12,25 @@ Sou um **músico guitarrista**  🎶
 </picture>
 
 
-## 🎸 Sobre Mim
-
-- 🎧 **Guitarrista e Compositor**: Toco guitarra elétrica e acústica, e sou apaixonado por explorar diferentes gêneros, incluindo **rock**, **blues**, **jazz**, **metal** e até mesmo **música de anime**. 
-
-- 🎵 **Produtor Musical**: Trabalho com **Bandlab** para criar, gravar, mixar e masterizar algumas gravações. 
-
----
-
-## 📝 Parcerias
+## 🎸 About Me
 
 
+- 🎧 Composer and guitarist: I enjoy experimenting with many genres, such as **rock**, **blues**, **jazz**, **metal**, and even **anime music**. I play both electric and acoustic guitar. 
 
-- **[CifraClub](https://www.cifraclub.com.br/)** 🎸: Um aplicativo para pesquisar **tablaturas de guitarra, e cifras** automaticamente. Ideal para guitarristas iniciantes ou para quem precisa de uma forma rápida de aprender uma música.
+
+- 🎵 **Music Producer**: I produce, record, mix, and master certain recordings at **Bandlab**. 
+
+
+Kindly send me the text that you want translated.
+
+
+## 📝 Collaborations
+
+
+
+
+- **[CifraClub] (https://www.cifraclub.com.br/)** 🎸: An app that automatically searches for guitar tabs and chords**. Perfect for beginning guitarists or those looking for a quick approach to learn a song.
+
 
   
 
