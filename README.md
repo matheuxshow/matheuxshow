@@ -21,7 +21,6 @@ I'm a guitarist musician 🎶.
 - 🎵 **Music Producer**: I produce, record, mix, and master certain recordings at **Bandlab**. 
 
 
-Kindly send me the text that you want translated.
 
 
 ## 📝 Collaborations
